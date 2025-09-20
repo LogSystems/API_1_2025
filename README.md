@@ -1,5 +1,5 @@
-# Aprendizado por Projeto Integrador (API)
-
+# API
+Aprendizado por Projeto Integrador
 
 # Índice
 * [Projeto](#projeto-template)
