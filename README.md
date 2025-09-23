@@ -32,7 +32,7 @@ Esse projeto tem como objetivo o desenvolvimento de uma plataforma de BI que per
  > Phyton e Power BI
   
  ### Tecnologias da Informação
- > Gantt
+ > Comex Stat
 
 # Backlog do produto
 
