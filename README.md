@@ -29,7 +29,7 @@ Esse projeto tem como objetivo o desenvolvimento de uma plataforma de BI que per
 ## Tecnologias Utilizadas
 
  ### Tecnologias Específicas/Apoio
- > Phyton e Power BI
+ > Phyton, Power BI, Excel, PowerPoint 
   
  ### Tecnologias da Informação
  > Comex Stat
