@@ -28,7 +28,7 @@ Esse projeto tem como objetivo o desenvolvimento de uma plataforma de BI que per
 
 ## Tecnologias Utilizadas
 - [ ] Phyton
-- [ ] Power BI
+- [ ] PowerBI
 - [ ] Excel
 - [ ] PowerPoint 
 
