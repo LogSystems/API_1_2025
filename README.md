@@ -27,8 +27,10 @@ Acompanhamento dos Resultados de Exportação e Importação com Foco no Compara
 Esse projeto tem como objetivo o desenvolvimento de uma plataforma de BI que permita visualizar informações sobre o desempenho dos Estados brasileiros e municípios do estado de São Paulo no comércio exterior, com base nos dados abertos do Ministério do Desenvolvimento, Indústria, Comércio e Serviço. 
 
 ## Tecnologias Utilizadas
-[] Phyton, Power BI, Excel, PowerPoint 
-  
+> Phyton
+> Power BI
+> Excel
+> PowerPoint 
 
 
 # Backlog do produto
