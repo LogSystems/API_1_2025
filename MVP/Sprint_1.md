@@ -1,4 +1,4 @@
-# 📌 MVP - LogSystem 
+# 📌 MVP - LogSystem: Sprint 1
 
 
 ## 🎯 Objetivo do MVP
