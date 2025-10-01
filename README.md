@@ -6,7 +6,7 @@ Aprendizado por Projeto Integrador
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Product Backlog](#Product-Backlog)
-* [Burndown](#Burndown)
+* [Sprints](#Sprints)
 * [Registro das Sprints](#Registro-das-Sprints)
 
 # Projeto (API) 
