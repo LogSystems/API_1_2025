@@ -25,10 +25,10 @@
 |-----|-----------------------------------------------------------------------------|------------|------------|
 | US1 | Como Tomador de Decisão em políticas públicas, quero uma base de dados que relate o desempenho comercial de cada um dos estados brasileiros para poder comparar as regiões que mais se desenvolveram nos último três anos e aquelas que estão passando por declínio;         | Alta       | 8 horas   |
 | US2 | Como Tomador de Decisão em políticas públicas, quero uma base de dados que relate o desempenho comercial de cada um dos municípios do estado de São Paulo para poder comparar as regiões que mais se desenvolveram nos último três anos e aquelas que estão passando por declínio.         | Alta      | 10 horas   |
-| US3 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
-| US4 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
-| US5 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
-| US6 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
+| US3 |  Como Tomador de Decisão em políticas públicas, quero analisar a quantidade de importações e exportações de cada um dos estados brasileiros para comparar com os anos anteriores;        | Alta      | 2 horas   |
+| US4 | Como Tomador de Decisão em políticas públicas, quero a descrição dos seguimentos de mercado dos municípios do estado de São Paulo para ter dimensão daqueles mais exportam produtos;         | Alta      | 2 horas   |
+| US5 | Como Tomador de Decisão em políticas públicas, quero uma métrica dos períodos de maior movimentação de transporte de carga nos municípios do estado de São Paulo para entender quais os momentos de maior pico de atividades;         | Alta      | 8 horas   |
+| US6 | Como Tomador de Decisão em políticas públicas, quero saber quais os modais mais utilizados para exportação e importação de produtos pelos estados brasileiros e uma métrica de custo de cada modal, para entender quais modais são os mais rentávei;         | Alta      | 4 horas   |
 
 ---
 
