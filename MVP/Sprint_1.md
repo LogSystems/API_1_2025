@@ -1,7 +1,7 @@
 # 📌 MVP - LogSystem 
 
 
-##🎯 Objetivo do MVP
+## 🎯 Objetivo do MVP
 - Gerar um comparativo envolvendo estados brasileiros e os municípios do estado de São Paulo com relação aos dados de exportação e importação;
 - Análise de dados fornecidos pelo Comex Stat;
 - Permitir ao usuário uma análise de dados precisos para avaliar o crescimento ou declínio anual dos estados e municípios.
@@ -10,7 +10,7 @@
 ---
 
 
-##📝 Descrição da Solução
+## 📝 Descrição da Solução
 - Tratamento de dados no Phyton
 - Criação de um dasboard interativo
 - Filtro correlacionando os dados dos anos de 2023, 2024 e 2025
@@ -18,12 +18,12 @@
 
 ---
 
-##👥 Personas / Usuários-Alv
+## 👥 Personas / Usuários-Alv
 -  Tomador de Decisão em políticas públicas
 
 ---
 
-##🔑 User Stories (Backlog do MVP)
+## 🔑 User Stories (Backlog do MVP)
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
 | 1    | Alta       | Como Tomador de Decisão em políticas públicas, quero uma base de dados que relate o desempenho comercial de cada um dos estados brasileiros para poder comparar as regiões que mais se desenvolveram nos último três anos e aquelas que estão passando por declínio;                                                    | 8 horas          | 1      |
@@ -54,8 +54,8 @@
 ## 📈 Métricas de Validação
 - Número de usuários que testaram o MVP: 02 
 - Feedback qualitativo:
-  Positivo: Dados bem tratados
-  Melhorar: Métrica de modais  
+  []Positivo: Dados bem tratados
+  []Melhorar: Métrica de modais  
 
 ---
 
@@ -63,7 +63,7 @@
 - Apronfundar o tratamento dos dados  
 - Dados mais conclusivos
 - Métricas mais bem estipuladas
-- Melhorar formatação  
+- Melhorar formatação do dashboard  
 
 ---
 
