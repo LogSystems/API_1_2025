@@ -7,7 +7,7 @@ Aprendizado por Projeto Integrador
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Product Backlog](#Product-Backlog)
 * [Burndown](#Burndown)
-* [Backlog do produto](#Backlog-do-produto)
+* [Registro das Sprints](#Registro-das-Sprints)
 
 # Projeto (API) 
 Acompanhamento dos Resultados de Exportação e Importação com Foco no Comparativo entre Estados da Federação e de Municípios no Estado de SP
@@ -56,6 +56,7 @@ Esse projeto tem como objetivo o desenvolvimento de uma plataforma de BI que per
 | 17   | Média      |Como Tomador de Decisão em políticas públicas, quero entender quais os produtos mais procurados tanto para exportação quanto nas importações envolvendo os Estados nacionais, para parametrizar as necessidades do mercado interno e externo.     | 6 horas          | 3      |
 | 18   | Alta      | Como Tomador de Decisão em políticas públicas, quero avaliar quais estados mais fizeram negócios com o mercado exterior para entender para onde e de onde estão vindo os produtos comercializados no mercado internacional     | 2 horas          | 3      |
 
+# Sprints
 ## Sprint 1
 <img width="1289" height="728" alt="image" src="https://github.com/user-attachments/assets/db59485a-13a3-4fd6-89b2-c9fee76760e9" />
 <img width="1286" height="726" alt="image" src="https://github.com/user-attachments/assets/acd64c13-2212-4f19-b9a3-3491eb261664" />
