@@ -74,7 +74,7 @@ Esse projeto tem como objetivo o desenvolvimento de uma plataforma de BI que per
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|01 | 29/09/2015 | feito | [MVP](MVP/Sprint_1.mb) | 
+|01 | 29/09/2015 | feito | [MVP](MVP/Sprint_1.md) | 
 |02|  20/10/2025 | a fazer|[MVP](MVP/sp2.md) | 
 |03| 17/11/2025 | a fazer|[MVP](MVP/sp3.md) | 
 |Feira de Soluções| 04/12/2025 | a fazer |[MVP](https://) | 
