@@ -1,11 +1,14 @@
 # 📌 MVP - LogSystem 
 
+
 ##🎯 Objetivo do MVP
 - Gerar um comparativo envolvendo estados brasileiros e os municípios do estado de São Paulo com relação aos dados de exportação e importação;
 - Análise de dados fornecidos pelo Comex Stat;
 - Permitir ao usuário uma análise de dados precisos para avaliar o crescimento ou declínio anual dos estados e municípios.
 
+
 ---
+
 
 ##📝 Descrição da Solução
 - Tratamento de dados no Phyton
