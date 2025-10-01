@@ -5,7 +5,7 @@ Aprendizado por Projeto Integrador
 * [Projeto](#projeto-template)
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
-* [Product Backlog](#Product-baclog)
+* [Product Backlog](#Product-Backlog)
 * [Burndown](#Burndown)
 * [Backlog do produto](#Backlog-do-produto)
 
