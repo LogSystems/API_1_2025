@@ -73,5 +73,3 @@
 
 
   
-  
-(vídeo/Gravação de Tela 2025-10-01 204212.mp4)
