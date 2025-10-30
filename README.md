@@ -2,11 +2,10 @@
 Aprendizado por Projeto Integrador
 
 # Índice
-* [Projeto](#projeto-template)
+* [Objetivo do Projeto](#projeto-template)
 * [Equipe](#equipe)
-* [Objetivo do Projeto](#objetivo-do-projeto)
-* [Product Backlog](#Product-Backlog)
-* [Sprints](#Sprints)
+* [Backlog do Produto(#objetivo-do-projeto)
+* [Competências Lts](#Product-Backlog)
 * [Registro das Sprints](#Registro-das-Sprints)
 
 # Projeto (API) 
