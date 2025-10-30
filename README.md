@@ -1,5 +1,5 @@
 # API
-Aprendizado por Projeto Integrador
+Projeto desenvolvido com base na metodologia ágil SCRUM, com o objetivo de estimular a iniciativa, a autonomia, o trabalho colaborativo e a capacidade de entrega de resultados dos estudantes participantes.
 
 # Índice
 * [Objetivo do Projeto](#projeto-template)
