@@ -27,7 +27,15 @@ Os resultados dos projetos devem estar em conformidade com o Aviso Legal dispon�
 |  Team Member  | Julio |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://br.linkedin.com/in/julio-eduardo-bustamante-mancisidor-753576387) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/mancisidor2024)          |
 
 # Objetivo do Projeto
-Esse projeto tem como objetivo o desenvolvimento de uma plataforma de BI que permita visualizar informações sobre o desempenho dos Estados brasileiros e municípios do estado de São Paulo no comércio exterior, com base nos dados abertos do Ministério do Desenvolvimento, Indústria, Comércio e Serviço. 
+Este projeto tem como propósito tornar o uso da plataforma GitHub mais acessível e intuitivo, tendo como foco as seguintes metas:
+
+Desenvolver uma solução em Business Intelligence (BI) voltada à visualização de dados sobre o comércio exterior.
+
+Disponibilizar análises de desempenho dos Estados brasileiros e dos municípios do Estado de São Paulo.
+
+Utilizar dados públicos disponibilizados pelo Ministério do Desenvolvimento, Indústria, Comércio e Serviços (MDIC) como base para a criação dos indicadores.
+
+Auxiliar tomadores de decisão na identificação de municípios com tendência de crescimento, estabilidade ou retração no mercado internacional. 
 
 ## Tecnologias Utilizadas
 - [ ] Phyton
