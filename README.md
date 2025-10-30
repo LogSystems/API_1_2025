@@ -41,7 +41,8 @@ Os resultados dos projetos devem estar em conformidade com o Aviso Legal dispon√
 - [ ] Phyton
 - [ ] PowerBI
 - [ ] Excel
-- [ ] PowerPoint 
+- [ ] PowerPoint
+- [ ] Jira Software
 
 
 # Product Backlog
