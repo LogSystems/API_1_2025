@@ -25,7 +25,7 @@ Os resultados dos projetos devem estar em conformidade com o Aviso Legal dispon�
 |  Team Member  | Geovanna Pimentel |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/geovanna-pimentel2003?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Geovanna2003)   |
 |  Team Member  | Willians |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/willians-dias-pereira-?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/will-maker276)          |
 |  Team Member  | Julio |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://br.linkedin.com/in/julio-eduardo-bustamante-mancisidor-753576387) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/mancisidor2024)          |
-| fagfsgdfytwfd | uuwqeuwqyeu | hduwuh |
+
 
 # Objetivo do Projeto
  Este projeto tem como propósito tornar o uso da plataforma GitHub mais acessível e intuitivo, tendo como foco as seguintes metas:
@@ -70,11 +70,11 @@ Os resultados dos projetos devem estar em conformidade com o Aviso Legal dispon�
 | 18   | Alta      | Como Tomador de Decisão em políticas públicas, quero avaliar quais estados mais fizeram negócios com o mercado exterior para entender para onde e de onde estão vindo os produtos comercializados no mercado internacional     | 2 horas          | 3      |
 
 # Relatório das Sprints
-Corrida	Status	Histórico
-01	concluída	Relatório Sprint 1
-02	concluída	Relatório Sprint 2
-03	um fazer	Relatório Sprint 3
-Feira de Soluções	um fazer	Relatório Final
+| Corrida |	Status | Histórico
+| 01 | concluída |	Relatório Sprint 1
+|02 | um fazer | Relatório Sprint 2
+| 03 | um fazer | Relatório Sprint 3
+| Feira de Soluções | um fazer | Relatório Final
 ## Sprint 1
 <img width="1289" height="728" alt="image" src="https://github.com/user-attachments/assets/db59485a-13a3-4fd6-89b2-c9fee76760e9" />
 <img width="1286" height="726" alt="image" src="https://github.com/user-attachments/assets/acd64c13-2212-4f19-b9a3-3491eb261664" />
