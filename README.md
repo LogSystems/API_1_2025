@@ -70,11 +70,11 @@ Os resultados dos projetos devem estar em conformidade com o Aviso Legal dispon�
 | 18   | Alta      | Como Tomador de Decisão em políticas públicas, quero avaliar quais estados mais fizeram negócios com o mercado exterior para entender para onde e de onde estão vindo os produtos comercializados no mercado internacional     | 2 horas          | 3      |
 
 # Relatório das Sprints
-| Corrida |	Status | Histórico
-| 01 | concluída |	Relatório Sprint 1
-|02 | um fazer | Relatório Sprint 2
-| 03 | um fazer | Relatório Sprint 3
-| Feira de Soluções | um fazer | Relatório Final
+| Corrida |	Status | Histórico |
+| 01 | concluída |	Relatório Sprint 1 |
+|02 | um fazer | Relatório Sprint 2 |
+| 03 | um fazer | Relatório Sprint 3 |
+| Feira de Soluções | um fazer | Relatório Final |
 ## Sprint 1
 <img width="1289" height="728" alt="image" src="https://github.com/user-attachments/assets/db59485a-13a3-4fd6-89b2-c9fee76760e9" />
 <img width="1286" height="726" alt="image" src="https://github.com/user-attachments/assets/acd64c13-2212-4f19-b9a3-3491eb261664" />
