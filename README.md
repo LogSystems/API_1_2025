@@ -27,7 +27,7 @@ Os resultados dos projetos devem estar em conformidade com o Aviso Legal dispon�
 |  Team Member  | Julio |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://br.linkedin.com/in/julio-eduardo-bustamante-mancisidor-753576387) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/mancisidor2024)          |
 
 # Objetivo do Projeto
-Este projeto tem como propósito tornar o uso da plataforma GitHub mais acessível e intuitivo, tendo como foco as seguintes metas:
+.Este projeto tem como propósito tornar o uso da plataforma GitHub mais acessível e intuitivo, tendo como foco as seguintes metas:
 
 Desenvolver uma solução em Business Intelligence (BI) voltada à visualização de dados sobre o comércio exterior.
 
