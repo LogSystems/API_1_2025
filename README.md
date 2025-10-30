@@ -9,7 +9,11 @@ Aprendizado por Projeto Integrador
 * [Registro das Sprints](#Registro-das-Sprints)
 
 # Projeto (API) 
-Acompanhamento dos Resultados de Exportação e Importação com Foco no Comparativo entre Estados da Federação e de Municípios no Estado de SP
+O projeto pedagógico é estruturado com base na Metodologia API, voltada ao processo de ensino e aprendizagem orientado para o desenvolvimento de competências. Fundamenta-se nos princípios da aprendizagem baseada em problemas reais (RPBL), na validação externa e na aplicação de inteligência ágil.
+
+A proposta utiliza estratégias que favorecem a compreensão do problema, a concepção de soluções viáveis e o desenvolvimento e implementação de um MVP (Produto Mínimo Viável), conforme o ciclo CDIO — Conceber, Desenvolver, Implementar e Operar.
+
+Os resultados dos projetos devem estar em conformidade com o Aviso Legal disponível no site da Fatec São José dos Campos, que também define as datas de início (kickoff) e das sprints do processo.
 
 # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
