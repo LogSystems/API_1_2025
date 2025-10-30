@@ -4,7 +4,7 @@ Aprendizado por Projeto Integrador
 # Índice
 * [Objetivo do Projeto](#projeto-template)
 * [Equipe](#equipe)
-* [Backlog do Produto(#objetivo-do-projeto)
+* [Backlog do Produto](#objetivo-do-projeto)
 * [Competências Lts](#Product-Backlog)
 * [Registro das Sprints](#Registro-das-Sprints)
 
