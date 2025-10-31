@@ -2,9 +2,12 @@
 
 ## 🎯 Objetivo do MVP
 > Descrever de forma clara qual é o propósito do MVP:  
-- Qual problema resolve?  
-- Qual hipótese será validada?  
-- Qual valor será entregue ao usuário final?  
+- Qual problema resolve?
+  * Organizamos e tratamos os dados de importação e exportação dos municípios brasileiros, com foco no Estado de São Paulo, utilizando bases públicas do Ministério do Desenvolvimento, Indústria, Comércio e Serviços (MDIC) como principal fonte de informação.Com o uso do Power BI e de técnicas de Business Intelligence (BI), desenvolvemos dashboards e relatórios interativos que possibilitam análises comparativas entre Estados e municípios, facilitando a interpretação de indicadores econômicos e apoiando a tomada de decisões estratégicas em políticas públicas e gestão de negócios. 
+- Qual hipótese será validada?
+  * A concentração das exportações dos municípios paulistas em determinados mercados e segmentos produtivos reflete as principais tendências de crescimento econômico do Estado de São Paulo no comércio exterior.
+- Qual valor será entregue ao usuário final?
+  * Oferece dashboards interativos que permitem analisar dados de importação e exportação dos municípios brasileiros, apoiando decisões estratégicas e identificação de tendências de mercado.
 
 ---
 
