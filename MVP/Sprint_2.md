@@ -29,8 +29,8 @@ Escopo:
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona 1:** breve descrição, necessidades e dores atendidas  
-- **Persona 2:** breve descrição, necessidades e dores atendidas  
+- **Persona 1:** Carlos Bastos/José Jaétis: Clientes e avaliadores do projeto, acompanhando o desenvolvimento da plataforma de BI para o comércio exterior paulista. É necessário que os alunos entreguem uma solução bem documentada, funcional e aderente aos requisitos ágeis, garantindo que o aprendizado e a aplicação prática de competências logísticas e de análise de dados sejam oferecidos.  
+- **Persona 2:** Marcus Nascimento: Cliente, interessado no desempenho do comércio exterior. Precisa de acesso a dados organizados, consolidados e visualmente compreensíveis para apoiar decisões estratégicas e logísticas, visto que atualmente os dados estão dispersos e a análise exige um esforço manual. 
 
 ---
 
