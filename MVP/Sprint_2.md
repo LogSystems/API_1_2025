@@ -13,12 +13,15 @@
 
 ## 📝 Descrição da Solução
 > Breve explicação do que será desenvolvido e entregue nesta etapa
+
 Funcionalidades principais:
 * Processamento e consolidação dos dados de importação e exportação dos municípios de São Paulo (2023–2025).
 * Dashboards e arquivos prontos para Power BI, com filtros interativos e métricas de ranking, tendências e sazonalidade.
+
 Limitações:
 * Análises detalhadas por município podem ser restritas.
 * Dashboards com visualizações básicas, sem recursos avançados.
+
 Escopo:
 * Foco no essencial para validar a ideia: tratamento dos dados essenciais de SP e dashboard inicial com métricas básicas.
  
