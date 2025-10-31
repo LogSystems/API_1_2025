@@ -1,5 +1,4 @@
-# 📌 MVP - [LOGSYSTEMS]
-
+# 📌 MVP -# 🚀 LOGSYSTEMS 📈
 ## 🎯 Objetivo do MVP
 > Descrever de forma clara qual é o propósito do MVP:  
 - Qual problema resolve?
