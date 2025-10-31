@@ -36,16 +36,16 @@ Escopo:
 ## 🔑 User Stories (Backlog do MVP)
 # Requisitos de Usuário
 
-| ID | Prioridade | Descrição | Tempo Estimado | Equipe | Esforço |
-|----|-------------|------------|----------------|---------|----------|
-| 7 | Alta | Como Analista de Logística, quero saber para onde estão se concentrando a maior parte das exportações dos municípios do estado de São Paulo, para acompanhar o crescimento do mercado. | 8 horas | 2 | 8 |
-| 8 | Alta | Como Gerente de Negócios, quero o número de quantos clientes os estados brasileiros atraíram ao decorrer dos últimos três anos para mensurar quais seguimentos nosso mercado mais atendeu e quais mais cresceram. | 6 horas | 2 | 3 |
-| 9 | Média | Como Analista de Logística, quero uma descrição dos produtos mais comercializados pelos municípios de São Paulo no mercado exterior nos últimos 3 anos (2023, 2024, 2025), para analisar quais são os principais segmentos de mercado dessa região. | 4 horas | 2 | 4 |
-| 10 | Alta | Como Coordenador de Comércio Exterior, quero ter uma forma de mensurar quais foram os produtos que mais sofreram alteração de seus fornecedores para envio ao mercado brasileiro. | 8 horas | 2 | 3 |
-| 11 | Média | Como Analista de Logística, quero analisar os produtos que possuem uma ascendência e decadência esporádica em períodos específicos com relação à distribuição dos Estados brasileiros, para saber quando a produção deve ser intensificada ou desacelerada. | 12 horas | 2 | 6 |
-| 12 | Baixa | Como Analista de Logística, quero uma análise dos municípios que tiveram um crescimento na quantidade de atividades e daqueles que as tiveram em decadência, analisando os últimos 3 anos, para projetar qual será o rumo destes no futuro. | 8 horas | 2 | 10 |
+# User Stories – Projeto de Análise de Comércio Exterior (SP)
+| ID | User Story | Prioridade | Estimativa |
+|----|-------------|-------------|-------------|
+| 1 | Como Analista de Logística, quero saber para onde estão se concentrando a maior parte das exportações dos municípios do estado de São Paulo, para acompanhar o crescimento do mercado. | Alta | 8 horas |
+| 2 | Como Gerente de Negócios, quero o número de quantos clientes os estados brasileiros atraíram ao decorrer dos últimos três anos para mensurar quais seguimentos nosso mercado mais atendeu e quais mais cresceram. | Alta | 6 horas |
+| 3 | Como Analista de Logística, quero uma descrição dos produtos mais comercializados pelos municípios de São Paulo no mercado exterior nos últimos 3 anos (2023, 2024, 2025), para analisar quais são os principais segmentos de mercado dessa região. | Média | 4 horas |
+| 4 | Como Coordenador de Comércio Exterior, quero ter uma forma de mensurar quais foram os produtos que mais sofreram alteração de seus fornecedores para envio ao mercado brasileiro. | Alta | 8 horas |
+| 5 | Como Analista de Logística, quero analisar os produtos que possuem uma ascendência e decadência esporádica em períodos específicos com relação à distribuição dos Estados brasileiros, para saber quando a produção deve ser intensificada ou desacelerada. | Média | 12 horas |
+| 6 | Como Analista de Logística, quero uma análise dos municípios que tiveram um crescimento na quantidade de atividades e daqueles que as tiveram em decadência, analisando os últimos 3 anos, para projetar qual será o rumo destes no futuro. | Baixa | 8 horas |
 
----
 
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
