@@ -36,7 +36,6 @@ Escopo:
 ## 🔑 User Stories (Backlog do MVP)
 # Requisitos de Usuário
 
-# User Stories – Projeto de Análise de Comércio Exterior (SP)
 | ID | User Story | Prioridade | Estimativa |
 |----|-------------|-------------|-------------|
 | 1 | Como Analista de Logística, quero saber para onde estão se concentrando a maior parte das exportações dos municípios do estado de São Paulo, para acompanhar o crescimento do mercado. | Alta | 8 horas |
