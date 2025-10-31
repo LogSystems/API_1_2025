@@ -47,11 +47,14 @@ Escopo:
 
 
 ## 📅 Sprint(s) Relacionadas
-| Sprint | Entregas Principais                          | Status   |
-|--------|----------------------------------------------|----------|
-| 01     | [Funcionalidade X, Y]                        | Concluído|
-| 02     | [Funcionalidade Z]                           | Em andamento |
-
+| Sprint | Entregas Principais | Status |
+|--------|----------------------|---------|
+| 01 | Comex Stat e Python | Concluído |
+| 02 | Python e PowerBI | Concluído |
+| 03 | Python e PowerBI | Concluído |
+| 04 | PowerBI | Concluído |
+| 05 | PowerBI | Concluído |
+| 06 | PowerPoint | Em andamento |
 ---
 
 ## 📊 Critérios de Aceitação
