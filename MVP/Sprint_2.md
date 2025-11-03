@@ -65,9 +65,7 @@ Escopo:
 ---
 
 ## 📈 Métricas de Validação
-- Número de usuários que testaram o MVP  
-- Feedback qualitativo (positivo/negativo)  
-- Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
+Pedro e Luiz Felipe realizaram os testes do MVP para verificar a integridade dos dados. Mesmo acessando o painel de diferentes equipamentos, a aplicação dos mesmos parâmetros de filtro gerou resultados idênticos em todas as simulações, o que confirma a confiabilidade das informações.  
 
 ---
 
