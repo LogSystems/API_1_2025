@@ -58,14 +58,12 @@ Escopo:
 ---
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário [ação principal]  
-- O sistema deve registrar [evento importante]  
-- Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
+* O MVP deve permitir que o usuário visualize informações sobre o desempenho de municípios e estados no comércio exterior. Para fins de análise de uso, o sistema deve registrar os acessos e os filtros aplicados pelo usuário. As métricas coletadas para avaliação da plataforma incluirão: tempo de resposta das consultas, taxas de uso das visualizações e o número de acessos segmentados por município ou estado. 
 
 ---
 
 ## 📈 Métricas de Validação
-Pedro e Luiz Felipe realizaram os testes do MVP para verificar a integridade dos dados. Mesmo acessando o painel de diferentes equipamentos, a aplicação dos mesmos parâmetros de filtro gerou resultados idênticos em todas as simulações, o que confirma a confiabilidade das informações.  
+* Pedro e Luiz Felipe realizaram os testes do MVP para verificar a integridade dos dados. Mesmo acessando o painel de diferentes equipamentos, a aplicação dos mesmos parâmetros de filtro gerou resultados idênticos em todas as simulações, o que confirma a confiabilidade das informações.  
 
 ---
 
