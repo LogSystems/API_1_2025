@@ -79,6 +79,7 @@ Escopo:
 ---
 
 ## 📂 Anexos / Evidências
-- Prints de tela  
+- <img width="1313" height="741" alt="image" src="https://github.com/user-attachments/assets/d7a12f06-bfea-45a9-8f04-018d25a86114" />
+ 
 - Fluxos ou protótipos  
 - Vídeo (MVP)  
