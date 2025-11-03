@@ -54,7 +54,7 @@ Escopo:
 | 03 | Python e PowerBI | Concluído |
 | 04 | PowerBI | Concluído |
 | 05 | PowerBI | Concluído |
-| 06 | PowerPoint | Em andamento |
+| 06 | PowerPoint | Concluído |
 ---
 
 ## 📊 Critérios de Aceitação
