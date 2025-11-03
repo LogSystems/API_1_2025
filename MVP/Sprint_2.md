@@ -72,14 +72,24 @@ Escopo:
 ---
 
 ## 🚀 Próximos Passos
-- Melhorias planejadas após feedback  
-- Ajustes de usabilidade  
-- Expansão de funcionalidades para próximo incremento  
+Para a Sprint 3, o foco está em duas frentes principais:
+
+Usabilidade: Melhorar a navegabilidade e a facilidade de uso dos dashboards existentes.
+
+Expansão de Funcionalidades:
+
+Adicionar novas análises por país parceiro.
+
+Integrar dados nacionais e internacionais em uma única visão.
+
+Disponibilizar visualizações mais detalhadas e abrangentes no Power BI." 
 
 ---
 
 ## 📂 Anexos / Evidências
 - <img width="1313" height="741" alt="image" src="https://github.com/user-attachments/assets/d7a12f06-bfea-45a9-8f04-018d25a86114" />
- 
+<img width="1311" height="740" alt="image" src="https://github.com/user-attachments/assets/4ab21e4a-0187-4cc6-8996-819f38f210db" />
+ <img width="1595" height="652" alt="image" src="https://github.com/user-attachments/assets/78a70225-3de7-4a50-9742-43447c00c919" />
+
 - Fluxos ou protótipos  
 - Vídeo (MVP)  
