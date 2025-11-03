@@ -89,5 +89,5 @@ Disponibilizar visualizações mais detalhadas e abrangentes no Power BI."
 <img width="1311" height="740" alt="image" src="https://github.com/user-attachments/assets/4ab21e4a-0187-4cc6-8996-819f38f210db" />
  <img width="1595" height="652" alt="image" src="https://github.com/user-attachments/assets/78a70225-3de7-4a50-9742-43447c00c919" />
 
-- Fluxos ou protótipos  
-- Vídeo (MVP)  
+  https://youtu.be/1sYcIotY_WI?feature=shared
+  https://colab.research.google.com/drive/1t0bU7bKwK_c1XGO2j9zgaCeGsc8-F8LJ?usp=sharing  
