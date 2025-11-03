@@ -72,15 +72,15 @@ Pedro e Luiz Felipe realizaram os testes do MVP para verificar a integridade dos
 ## 🚀 Próximos Passos
 Para a Sprint 3, o foco está em duas frentes principais:
 
-Usabilidade: Melhorar a navegabilidade e a facilidade de uso dos dashboards existentes.
+* Usabilidade: Melhorar a navegabilidade e a facilidade de uso dos dashboards existentes.
 
-Expansão de Funcionalidades:
+* Expansão de Funcionalidades:
 
-Adicionar novas análises por país parceiro.
+* Adicionar novas análises por país parceiro.
 
-Integrar dados nacionais e internacionais em uma única visão.
+* Integrar dados nacionais e internacionais em uma única visão.
 
-Disponibilizar visualizações mais detalhadas e abrangentes no Power BI." 
+* Disponibilizar visualizações mais detalhadas e abrangentes no Power BI." 
 
 ---
 
