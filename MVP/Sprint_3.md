@@ -40,12 +40,6 @@ Tomador de Decisão em políticas públicas
 | 03     | Criação de gráficos dinâmicos                           | Concluído |
 | 03     | Geração do vídeo                           | Concluído |
 | 03     | Postagem do vídeo no YouTube                          | Concluído |
----
-
-## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário [ação principal]  
-- O sistema deve registrar [evento importante]  
-- Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
 
 ---
 
