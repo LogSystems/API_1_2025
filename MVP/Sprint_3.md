@@ -1,41 +1,45 @@
-# 📌 MVP - [Nome do Projeto]
+# 📌 MVP - LogSystem: Sprint 3
 
 ## 🎯 Objetivo do MVP
-> Descrever de forma clara qual é o propósito do MVP:  
-- Qual problema resolve?  
-- Qual hipótese será validada?  
-- Qual valor será entregue ao usuário final?  
+- Gerar um comparativo envolvendo estados brasileiros e os municípios do estado de São Paulo com relação aos dados de exportação e importação;
+- Análise de dados fornecidos pelo Comex Stat;
+- Permitir ao usuário uma análise de dados precisos para avaliar o crescimento ou declínio anual dos estados e municípios.  
 
----
 
 ## 📝 Descrição da Solução
-> Breve explicação do que será desenvolvido e entregue nesta etapa.  
-- Funcionalidades principais incluídas  
-- Limitações conhecidas  
-- Escopo reduzido (somente o essencial para validar a ideia)  
+- Tratamento de dados no Phyton
+- Criação de um dasboard interativo
+- Filtro correlacionando os dados dos anos de 2023, 2024 e 2025
+- Gráficos em tabelas permitindo análise do crescimento das operações  
 
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona 1:** breve descrição, necessidades e dores atendidas  
-- **Persona 2:** breve descrição, necessidades e dores atendidas  
+Tomador de Decisão em políticas públicas 
 
 ---
 
 ## 🔑 User Stories (Backlog do MVP)
-| ID  | User Story                                                                 | Prioridade | Estimativa |
-|-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Alta       | 5 pontos   |
-| US2 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
+| Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
+|------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
+| 1    | Alta       | Como Tomador de Decisão em políticas públicas, quero uma base de dados que relate o desempenho comercial de cada um dos estados brasileiros para poder comparar as regiões que mais se desenvolveram nos último três anos e aquelas que estão passando por declínio;                                                    | 8 horas          | 1      |
+| 2    | Alta       | Como Tomador de Decisão em políticas públicas, quero uma base de dados que relate o desempenho comercial de cada um dos municípios do estado de São Paulo para poder comparar as regiões que mais se desenvolveram nos último três anos e aquelas que estão passando por declínio.                                                                    | 10 horas          | 1      |
+| 3    | Alta       | Como Tomador de Decisão em políticas públicas, quero analisar a quantidade de importações e exportações de cada um dos estados brasileiros para comparar com os anos anteriores;                                               | 2 horas          | 1      |
+| 4  | Alta      | Como Tomador de Decisão em políticas públicas, quero a descrição dos seguimentos de mercado dos municípios do estado de São Paulo para ter dimensão daqueles mais exportam produtos;                                                                                                                                                     | 2 horas         | 1    |
+| 5   | Alta      | Como Tomador de Decisão em políticas públicas, quero uma métrica dos períodos de maior movimentação de transporte de carga nos municípios do estado de São Paulo para entender quais os momentos de maior pico de atividades     | 8 horas          | 1      |
+| 6   | Alta      | Como Tomador de Decisão em políticas públicas, quero saber quais os modais mais utilizados para exportação e importação de produtos pelos estados brasileiros e uma métrica de custo de cada modal, para entender quais modais são os mais rentáveis.     | 4 horas          | 1      |
+
 
 ---
 
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | [Funcionalidade X, Y]                        | Concluído|
-| 02     | [Funcionalidade Z]                           | Em andamento |
-
+| 03     | Tratamento de dados no Phyton                        | Concluído|
+| 03     | Integração das informações no PowerBI                           | Concluído |
+| 03     | Criação de gráficos dinâmicos                           | Concluído |
+| 03     | Geração do vídeo                           | Concluído |
+| 03     | Postagem do vídeo no YouTube                          | Concluído |
 ---
 
 ## 📊 Critérios de Aceitação
@@ -46,20 +50,21 @@
 ---
 
 ## 📈 Métricas de Validação
-- Número de usuários que testaram o MVP  
-- Feedback qualitativo (positivo/negativo)  
-- Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
-
+- Número de usuários que testaram o MVP: 02
+- Feedback qualitativo: após entrega da sprint
 ---
 
 ## 🚀 Próximos Passos
-- Melhorias planejadas após feedback  
-- Ajustes de usabilidade  
-- Expansão de funcionalidades para próximo incremento  
+- Aprimorar a extrutura das apresentações para a feira
 
 ---
 
 ## 📂 Anexos / Evidências
-- Prints de tela  
-- Fluxos ou protótipos  
-- Vídeo (MVP)  
+<img width="1456" height="816" alt="image" src="https://github.com/user-attachments/assets/88949f74-8a6a-4182-9a17-4bf59357dfaf" />
+<img width="1452" height="813" alt="image" src="https://github.com/user-attachments/assets/b866ec8b-1858-4998-8f41-478364859be5" />
+<img width="1456" height="816" alt="image" src="https://github.com/user-attachments/assets/4e970c95-d0cc-4d5d-9148-902549988a8b" />
+<img width="1452" height="815" alt="image" src="https://github.com/user-attachments/assets/961fcea9-c8a6-49c6-ab67-e94fe5120204" />
+
+
+
+
