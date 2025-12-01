@@ -44,9 +44,8 @@ Tomador de Decisão em políticas públicas
 ---
 
 ## 📈 Métricas de Validação
-- Número de usuários que testaram o MVP: 02
-- Feedback qualitativo: após entrega da sprint
----
+- A equipe realizou testes no (MVP). Os testes foram executados em diversos equipamentos, e a aplicação dos mesmos parâmetros de filtro resultou em dados idênticos e consistentes em todas as simulações, confirmando integralmente a confiabilidade das informações do sistema.
+
 
 ## 🚀 Próximos Passos
 - Aprimorar a extrutura das apresentações para a feira
