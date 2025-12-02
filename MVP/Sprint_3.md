@@ -44,7 +44,16 @@ Tomador de Decisão em políticas públicas
 ---
 
 ## 📈 Métricas de Validação
-- A equipe realizou testes no (MVP). Os testes foram executados em diversos equipamentos, e a aplicação dos mesmos parâmetros de filtro resultou em dados idênticos e consistentes em todas as simulações, confirmando integralmente a confiabilidade das informações do sistema.
+- A equipe realizou a verificação da integridade dos dados. Os testes foram executados em diversos equipamentos, e a aplicação dos mesmos parâmetros de filtro resultou em dados idênticos e consistentes em todas as simulações, o que confirma integralmente a confiabilidade das informações do sistema.
+
+🛠️ Contribuições Essenciais
+Refatoração de Código: Rafaela e Luiz Henrique completaram uma limpeza e otimização aprofundada no código Python, visando a melhoria de performance e manutenção.
+
+Documentação Técnica: Geovanna finalizou a documentação abrangente do projeto, garantindo a rastreabilidade e o conhecimento de todas as funcionalidades.
+
+Gestão de Tarefas: Júlio assegurou a fluidez do processo e o acompanhamento das atividades, mantendo a plataforma JIRA organizada e atualizada.
+
+Relatórios de Entrega: William preparou os relatórios finais para a entrega do projeto.
 
 
 ## 🚀 Próximos Passos
