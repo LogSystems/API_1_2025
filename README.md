@@ -7,6 +7,7 @@ Projeto desenvolvido com base na metodologia ágil SCRUM, com o objetivo de esti
 * [Backlog do Produto](#objetivo-do-projeto)
 * [Competências Lts](#Product-Backlog)
 * [Registro das Sprints](#Registro-das-Sprints)
+* 
 
 # Projeto (API) 
 O projeto pedagógico é estruturado com base na Metodologia API, voltada ao processo de ensino e aprendizagem orientado para o desenvolvimento de competências. Fundamenta-se nos princípios da aprendizagem baseada em problemas reais (RPBL), na validação externa e na aplicação de inteligência ágil.
