@@ -69,6 +69,14 @@ Os resultados dos projetos devem estar em conformidade com o Aviso Legal dispon�
 | 17   | Média      |Como Tomador de Decisão em políticas públicas, quero entender quais os produtos mais procurados tanto para exportação quanto nas importações envolvendo os Estados nacionais, para parametrizar as necessidades do mercado interno e externo.     | 6 horas          | 3      |
 | 18   | Alta      | Como Tomador de Decisão em políticas públicas, quero avaliar quais estados mais fizeram negócios com o mercado exterior para entender para onde e de onde estão vindo os produtos comercializados no mercado internacional     | 2 horas          | 3      |
 
+# RRelatório das Sprints
+| Sprint     | Status   | Histórico |
+|-------------------|------------|----------
+| 01    | concluído | [Relatório Sprint 1](https://github.com/user-attachments/files/22608034/Relatorio.Projeto.Integrador.-.Sprint1.pdf)|
+| 02    | concluído  | [Relatorio Sprint 2](https://github.com/user-attachments/files/22980272/Relatorio.Logistica.Empresarial.2.pdf)|
+| 03    | concluído  | [Relatorio Sprint 3](https://github.com/user-attachments/files/23728199/Sprint.3.API.GAVCA.pdf)|
+| Feira de Soluções | concluído  | [Relatorio Final](https://github.com/user-attachments/files/23888780/Relatorio.Final.pdf) |
+
 
 # Registro das Sprints
 
