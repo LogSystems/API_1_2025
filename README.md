@@ -77,4 +77,3 @@ Sprint | Previsão | Status| Histórico|
 |01 | 29/09/2015 | feito | [MVP](MVP/Sprint_1.md) | 
 |02|  20/10/2025 | feito|[MVP](MVP/Sprint_2.md) | 
 |03| 17/11/2025 | feito|[MVP](MVP/Sprint_3.md) | 
-|Feira de Soluções| 04/12/2025 | a fazer |[MVP](https://) | 
