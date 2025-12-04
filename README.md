@@ -75,7 +75,7 @@ Os resultados dos projetos devem estar em conformidade com o Aviso Legal dispon�
 |-------------------|------------|----------
 | 01    | concluído | [Relatório Sprint 1](https://github.com/LogSystems/API_1_2025/blob/main/Relat%C3%B3rio%20API_1.pdf)|
 | 02    | concluído  | [Relatorio Sprint 2](https://github.com/LogSystems/API_1_2025/blob/main/Relato%CC%81rio%20API_2.pdf)|
-| 03    | concluído  | [Relatorio Sprint 3]([https://github.com/LogSystems/API_1_2025/blob/main/Relat%C3%B3rio%20API_3.pdf)|
+| 03    | concluído  | [Relatorio Sprint 3](https://github.com/LogSystems/API_1_2025/blob/main/Relat%C3%B3rio%20API_3.pdf)|
 | Feira de Soluções | concluído  | [Relatorio Final](https://github.com/LogSystems/API_1_2025/blob/main/RELATORIO_FINAL_API.pdf) |
 
 
