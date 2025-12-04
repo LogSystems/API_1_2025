@@ -66,7 +66,7 @@ Relatórios de Entrega: William preparou os relatórios finais para a entrega do
 <img width="1452" height="813" alt="image" src="https://github.com/user-attachments/assets/b866ec8b-1858-4998-8f41-478364859be5" />
 <img width="1456" height="816" alt="image" src="https://github.com/user-attachments/assets/4e970c95-d0cc-4d5d-9148-902549988a8b" />
 <img width="1452" height="815" alt="image" src="https://github.com/user-attachments/assets/961fcea9-c8a6-49c6-ab67-e94fe5120204" />
-
+file:///C:/Users/fbpim/Downloads/RELATORIO_FINAL_API.pdf
 
 
 
